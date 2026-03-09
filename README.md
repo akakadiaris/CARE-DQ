@@ -2,7 +2,7 @@
 
 This repository contains supplemental data for the manuscript CARE-DQ: A Clinical and Social Context–Informed Framework for EHR Data Quality Assessment and Readiness
 
-This repository hosts **Supplemental Table 1: Diagnosis Codes, Treatments, and Medications** used in the CARE-DQ manuscript.
+This repository hosts **Fig 1: Data Quality Framework for Assessing Data Quality & Readiness of Data for Clinical Research** **Supplemental Table 1: Diagnosis Codes, Treatments, and Medications** used in the CARE-DQ manuscript.
 
 **Table Contents:**  
 - Cancer cohorts: Breast, Colon, Melanoma/Carcinoma, Ovarian  
